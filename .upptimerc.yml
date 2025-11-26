@@ -9,6 +9,12 @@ sites:
     url: $PANEL_SITE
   - name: Status
     url: $STATUS_SITE
+  - name: GitHub Bot
+    url: $GIT_BOT
+  - name: RostaBot Website
+    url: $ROSTABOT_SITE
+  - name: RostaBot
+    url: $ROSTABOT_BOT
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
