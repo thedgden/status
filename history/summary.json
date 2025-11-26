@@ -76,18 +76,20 @@
     "url": "$ROSTABOT_BOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rosta-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 24,
     "timeDay": 24,
     "timeWeek": 24,
     "timeMonth": 24,
     "timeYear": 24,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-26": 0
+    }
   },
   {
     "name": "WastedRZ Website",
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 30
+      "2025-11-26": 32
     }
   }
 ]
