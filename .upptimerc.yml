@@ -33,7 +33,6 @@ status-website:
   theme: night
   delay: 30000 # 30 seconds
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Digital Den Status Page
   logoUrl: https://dgden.com/images/digitalden.png
   introTitle: "**Digital Den Status Portal**"
