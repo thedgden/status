@@ -35,13 +35,14 @@ status-website:
   # baseUrl: /your-repo-name
   name: Digital Den Status Page
   logoUrl: https://dgden.com/images/digitalden.png
+  favicon: https://dgden.com/images/digitalden.png
   introTitle: "**Digital Den Status Portal**"
   introMessage: Here you can monitor the uptime and performance of our various platforms.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://dgden.com
 
 i18n:
   footer: Digital Den © 2025
