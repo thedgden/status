@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 214,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 211,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 208,
+    "timeDay": 208,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 25,
-    "timeDay": 25,
-    "timeWeek": 25,
-    "timeMonth": 25,
-    "timeYear": 25,
+    "time": 24,
+    "timeDay": 24,
+    "timeWeek": 24,
+    "timeMonth": 24,
+    "timeYear": 24,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -118,16 +118,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 37,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "time": 33,
+    "timeDay": 33,
+    "timeWeek": 33,
+    "timeMonth": 33,
+    "timeYear": 33,
     "dailyMinutesDown": {}
   },
   {
     "name": "GitHub Bot",
-    "url": "$GIT_BOT",
+    "url": "$GHBOT_BOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-hub-bot",
     "status": "down",
@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 23
+      "2025-11-26": 30
     }
   }
 ]
