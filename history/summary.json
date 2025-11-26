@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 14
+      "2025-11-26": 18
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "$WASTEDRZ_FIVEM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wasted-rz-five-m",
-    "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.57%",
+    "uptimeDay": "2.57%",
+    "uptimeWeek": "2.57%",
+    "uptimeMonth": "2.57%",
+    "uptimeYear": "2.57%",
+    "time": 50,
+    "timeDay": 50,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-11-26": 0
+      "2025-11-26": 4
     }
   }
 ]
