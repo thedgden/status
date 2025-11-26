@@ -22,8 +22,8 @@ sites:
     port: $WASTEDRZ_FIVEM_PORT
     check: "tcp-ping"
   - name: GitHub Bot
-    url: $GIT_BOT
-    port: $GIT_BOT_PORT
+    url: $GHBOT_BOT
+    port: $GHBOT_BOT_PORT
     check: "tcp-ping"
 
 status-website:
