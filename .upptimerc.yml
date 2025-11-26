@@ -33,7 +33,7 @@ status-website:
   theme: night
   delay: 30000 # 30 seconds
   # baseUrl: /your-repo-name
-  name: Digital Den Status Page
+  name: Digital Den Status Portal
   logoUrl: https://dgden.com/images/digitalden.png
   favicon: https://dgden.com/images/digitalden.png
   introTitle: "**Digital Den Status Portal**"
