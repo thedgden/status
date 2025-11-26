@@ -21,6 +21,10 @@ sites:
     url: $WASTEDRZ_FIVEM
     port: $WASTEDRZ_FIVEM_PORT
     check: "tcp-ping"
+  - name: GitHub Bot
+    url: $GIT_BOT
+    port: $GIT_BOT_PORT
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
