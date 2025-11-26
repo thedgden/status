@@ -9,10 +9,6 @@ sites:
     url: $PANEL_SITE
   - name: Digital Den Status
     url: $STATUS_SITE
-  - name: GitHub Bot
-    url: $GIT_BOT
-    port: $GIT_BOT_PORT
-    check: "tcp-ping"
   - name: RostaBot Website
     url: $ROSTABOT_SITE
   - name: RostaBot
@@ -30,7 +26,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dgden.com
-  theme: dark
+  theme: night
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Digital Den Status Page
