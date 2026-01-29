@@ -4,18 +4,20 @@
     "url": "$MAIN_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "digital-den-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 205,
     "timeWeek": 207,
     "timeMonth": 233,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-29": 3
+    }
   },
   {
     "name": "Digital Den Panel",
@@ -42,10 +44,10 @@
     "url": "$STATUS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "digital-den-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
@@ -53,7 +55,9 @@
     "timeWeek": 243,
     "timeMonth": 193,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-29": 1
+    }
   },
   {
     "name": "RostaBot Website",
@@ -115,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wasted-rz-five-m",
     "status": "down",
-    "uptime": "67.23%",
+    "uptime": "66.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.37%",
-    "uptimeYear": "67.23%",
+    "uptimeMonth": "29.27%",
+    "uptimeYear": "66.56%",
     "time": 27,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 25,
     "timeYear": 27,
     "dailyMinutesDown": {
-      "2026-01-29": 115,
+      "2026-01-29": 1034,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
