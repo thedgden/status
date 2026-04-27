@@ -15,12 +15,12 @@ sites:
     url: $ROSTABOT_BOT
     port: $ROSTABOT_BOT_PORT
     check: "tcp-ping"
-  - name: WastedRZ Website
-    url: $WASTEDRZ_SITE
-  - name: WastedRZ (FiveM)
-    url: $WASTEDRZ_FIVEM
-    port: $WASTEDRZ_FIVEM_PORT
-    check: "tcp-ping"
+  # - name: WastedRZ Website
+  #   url: $WASTEDRZ_SITE
+  # - name: WastedRZ (FiveM)
+  #   url: $WASTEDRZ_FIVEM
+  #   port: $WASTEDRZ_FIVEM_PORT
+  #   check: "tcp-ping"
   - name: GitHub Bot
     url: $GHBOT_BOT
     port: $GHBOT_BOT_PORT
